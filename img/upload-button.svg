@@ -1,0 +1,27 @@
+<svg width="86" height="114.188" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+ <defs>
+  <style>.cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #943106;
+      }</style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="116.188" width="88" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <rect id="svg_3" class="cls-2" ry="20" rx="20" height="86" width="86" y="28.188"/>
+   <circle id="svg_4" class="cls-3" r="24" cy="72.188" cx="42"/>
+   <circle id="svg_5" class="cls-2" r="19.578" cy="72.11" cx="41.922"/>
+  </g>
+ </g>
+</svg>
